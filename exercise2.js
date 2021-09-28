@@ -11,6 +11,7 @@ function printWelcome (frens) {
 
 printWelcome(["mike","cindy","james"]);
 
+
 console.log("==========================");
 
 console.log("PART2")
