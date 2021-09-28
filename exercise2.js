@@ -23,7 +23,7 @@ function getAge(birthYear) {
   return currentYear - birthYear;
 }
 
-console.log("You are", getAge(1975),".")
+console.log("You are", getAge(1975))
 
 console.log("==========================");
 
@@ -47,4 +47,3 @@ printWelcomeAgain(myFrens);
 
 console.log("==========================");
 
-console.log("Challenge YourSelf");
